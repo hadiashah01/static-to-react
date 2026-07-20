@@ -1,9 +1,10 @@
+import logo from '../assets/Winterworld-logo.svg'
 export default function Header() {
     return (
           <header>
     <div className="header__container flex">
       <div className="brand__logo">
-        <img src="./assets/Winterworld-logo.svg" alt="Winterworld-logo" />
+                    <img src={logo } />
       </div>
       <ul className="nav flex">
         <li className="flex nav__list-item list-item-first">
