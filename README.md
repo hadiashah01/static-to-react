@@ -13,12 +13,11 @@ Welcome to the Winter World React application! This project demonstrates migrati
 6. [License](#license)
 7. [Author](#author)
 
-
 ## Live Demo
 
 Click the preview image below to visit the live interactive demo:
 
-[![User Directory Live Webpage Preview](./static-to-react/src/assets/preview-img.png)](https://hadiashah01.github.io/static-to-react/)
+[![Static to React Live Webpage Preview](./src/assets/preview-img.png)](https://hadiashah01.github.io/static-to-react/)
 
 
 ## Folder Structure
