@@ -18,7 +18,7 @@ Welcome to the Winter World React application! This project demonstrates migrati
 
 Click the preview image below to visit the live interactive demo:
 
-[![User Directory Live Webpage Preview](./static-to-react/src/assets/preview-img.png)](https://hadiashah01.github.io/static-to-reactA/)
+[![User Directory Live Webpage Preview](./static-to-react/src/assets/preview-img.png)](https://hadiashah01.github.io/static-to-react/)
 
 
 ## Folder Structure
